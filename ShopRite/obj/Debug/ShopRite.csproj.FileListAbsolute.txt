@@ -1,0 +1,174 @@
+C:\Users\saeed\Documents\C#\ShopRite\ShopRite\obj\Debug\ShopRite.csproj.AssemblyReference.cache
+C:\Users\saeed\Documents\C#\ShopRite\ShopRite\obj\Debug\ShopRite.csproj.SuggestedBindingRedirects.cache
+C:\Users\saeed\Documents\C#\ShopRite\ShopRite\obj\Debug\ShopRite.Home.resources
+C:\Users\saeed\Documents\C#\ShopRite\ShopRite\obj\Debug\ShopRite.Properties.Resources.resources
+C:\Users\saeed\Documents\C#\ShopRite\ShopRite\obj\Debug\ShopRite.csproj.GenerateResource.cache
+C:\Users\saeed\Documents\C#\ShopRite\ShopRite\obj\Debug\ShopRite.csproj.CoreCompileInputs.cache
+C:\Users\saeed\Documents\C#\ShopRite\ShopRite\obj\Debug\ShopRite.adminLogin.resources
+C:\Users\saeed\Documents\C#\ShopRite\ShopRite\obj\Debug\ShopRite.staffLogin.resources
+C:\Users\saeed\Documents\C#\ShopRite\ShopRite\bin\Debug\l.exe.config
+C:\Users\saeed\Documents\C#\ShopRite\ShopRite\bin\Debug\l.exe
+C:\Users\saeed\Documents\C#\ShopRite\ShopRite\bin\Debug\l.pdb
+C:\Users\saeed\Documents\C#\ShopRite\ShopRite\obj\Debug\l.exe
+C:\Users\saeed\Documents\C#\ShopRite\ShopRite\obj\Debug\l.pdb
+C:\Users\saeed\Documents\C#\ShopRite\ShopRite\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\saeed\Documents\C#\ShopRite\ShopRite\bin\Debug\Google.Protobuf.dll
+C:\Users\saeed\Documents\C#\ShopRite\ShopRite\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\saeed\Documents\C#\ShopRite\ShopRite\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\saeed\Documents\C#\ShopRite\ShopRite\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\saeed\Documents\C#\ShopRite\ShopRite\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\saeed\Documents\C#\ShopRite\ShopRite\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\saeed\Documents\C#\ShopRite\ShopRite\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\saeed\Documents\C#\ShopRite\ShopRite\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\saeed\Documents\C#\ShopRite\ShopRite\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\saeed\Documents\C#\ShopRite\ShopRite\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\saeed\Documents\C#\ShopRite\ShopRite\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\saeed\Documents\C#\ShopRite\ShopRite\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\saeed\Documents\C#\ShopRite\ShopRite\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\saeed\Documents\C#\ShopRite\ShopRite\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\saeed\Documents\C#\ShopRite\ShopRite\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\saeed\Documents\C#\ShopRite\ShopRite\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\saeed\Documents\C#\ShopRite\ShopRite\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\saeed\Documents\C#\ShopRite\ShopRite\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\saeed\Documents\C#\ShopRite\ShopRite\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\saeed\Documents\C#\ShopRite\ShopRite\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\saeed\Documents\C#\ShopRite\ShopRite\bin\Debug\MySql.Data.dll
+C:\Users\saeed\Documents\C#\ShopRite\ShopRite\bin\Debug\MySql.Data.EntityFrameworkCore.dll
+C:\Users\saeed\Documents\C#\ShopRite\ShopRite\bin\Debug\MySqlConnector.dll
+C:\Users\saeed\Documents\C#\ShopRite\ShopRite\bin\Debug\System.Buffers.dll
+C:\Users\saeed\Documents\C#\ShopRite\ShopRite\bin\Debug\System.Collections.Immutable.dll
+C:\Users\saeed\Documents\C#\ShopRite\ShopRite\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\saeed\Documents\C#\ShopRite\ShopRite\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\saeed\Documents\C#\ShopRite\ShopRite\bin\Debug\System.Memory.dll
+C:\Users\saeed\Documents\C#\ShopRite\ShopRite\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\saeed\Documents\C#\ShopRite\ShopRite\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\saeed\Documents\C#\ShopRite\ShopRite\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\saeed\Documents\C#\ShopRite\ShopRite\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\saeed\Documents\C#\ShopRite\ShopRite\bin\Debug\ZstdNet.dll
+C:\Users\saeed\Documents\C#\ShopRite\ShopRite\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\saeed\Documents\C#\ShopRite\ShopRite\bin\Debug\Google.Protobuf.pdb
+C:\Users\saeed\Documents\C#\ShopRite\ShopRite\bin\Debug\Google.Protobuf.xml
+C:\Users\saeed\Documents\C#\ShopRite\ShopRite\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\saeed\Documents\C#\ShopRite\ShopRite\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\saeed\Documents\C#\ShopRite\ShopRite\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\saeed\Documents\C#\ShopRite\ShopRite\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\saeed\Documents\C#\ShopRite\ShopRite\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\saeed\Documents\C#\ShopRite\ShopRite\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\saeed\Documents\C#\ShopRite\ShopRite\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\saeed\Documents\C#\ShopRite\ShopRite\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\saeed\Documents\C#\ShopRite\ShopRite\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\saeed\Documents\C#\ShopRite\ShopRite\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\saeed\Documents\C#\ShopRite\ShopRite\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\saeed\Documents\C#\ShopRite\ShopRite\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\saeed\Documents\C#\ShopRite\ShopRite\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\saeed\Documents\C#\ShopRite\ShopRite\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\saeed\Documents\C#\ShopRite\ShopRite\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\saeed\Documents\C#\ShopRite\ShopRite\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\saeed\Documents\C#\ShopRite\ShopRite\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\saeed\Documents\C#\ShopRite\ShopRite\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\saeed\Documents\C#\ShopRite\ShopRite\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\saeed\Documents\C#\ShopRite\ShopRite\bin\Debug\MySql.Data.xml
+C:\Users\saeed\Documents\C#\ShopRite\ShopRite\bin\Debug\MySql.Data.EntityFrameworkCore.xml
+C:\Users\saeed\Documents\C#\ShopRite\ShopRite\bin\Debug\MySqlConnector.xml
+C:\Users\saeed\Documents\C#\ShopRite\ShopRite\bin\Debug\System.Buffers.xml
+C:\Users\saeed\Documents\C#\ShopRite\ShopRite\bin\Debug\System.Collections.Immutable.xml
+C:\Users\saeed\Documents\C#\ShopRite\ShopRite\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\saeed\Documents\C#\ShopRite\ShopRite\bin\Debug\System.Memory.xml
+C:\Users\saeed\Documents\C#\ShopRite\ShopRite\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\saeed\Documents\C#\ShopRite\ShopRite\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\saeed\Documents\C#\ShopRite\ShopRite\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\saeed\Documents\C#\ShopRite\ShopRite\obj\Debug\ShopRite.StaffPage.resources
+C:\Users\saeed\Documents\C#\ShopRite\ShopRite\obj\Debug\ShopRite.csproj.CopyComplete
+C:\Users\saeed\Documents\C#\ShopRite\ShopRite\bin\Debug\NuGet.Frameworks.dll
+C:\Users\saeed\Documents\C#\ShopRite\ShopRite\bin\Debug\NuGet.Frameworks.xml
+C:\Users\saeed\Documents\C#\ShopRite\ShopRite\obj\Debug\ShopRite.passwordReset.resources
+C:\Users\saeed\Documents\C#\ShopRite\ShopRite\obj\Debug\ShopRite.adminPage.resources
+C:\Users\saeed\Documents\C#\ShopRite\ShopRite\obj\Debug\ShopRite.DeleteStaff.resources
+C:\Users\saeed\Documents\C#\ShopRite\ShopRite\obj\Debug\ShopRite.addStaff.resources
+C:\Users\Derrick Danso\Desktop\ShopRite\ShopRite\ShopRite\bin\Debug\l.exe.config
+C:\Users\Derrick Danso\Desktop\ShopRite\ShopRite\ShopRite\bin\Debug\l.exe
+C:\Users\Derrick Danso\Desktop\ShopRite\ShopRite\ShopRite\bin\Debug\l.pdb
+C:\Users\Derrick Danso\Desktop\ShopRite\ShopRite\ShopRite\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Derrick Danso\Desktop\ShopRite\ShopRite\ShopRite\bin\Debug\Google.Protobuf.dll
+C:\Users\Derrick Danso\Desktop\ShopRite\ShopRite\ShopRite\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Derrick Danso\Desktop\ShopRite\ShopRite\ShopRite\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Derrick Danso\Desktop\ShopRite\ShopRite\ShopRite\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Derrick Danso\Desktop\ShopRite\ShopRite\ShopRite\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Derrick Danso\Desktop\ShopRite\ShopRite\ShopRite\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Derrick Danso\Desktop\ShopRite\ShopRite\ShopRite\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Derrick Danso\Desktop\ShopRite\ShopRite\ShopRite\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Derrick Danso\Desktop\ShopRite\ShopRite\ShopRite\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Derrick Danso\Desktop\ShopRite\ShopRite\ShopRite\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Derrick Danso\Desktop\ShopRite\ShopRite\ShopRite\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Derrick Danso\Desktop\ShopRite\ShopRite\ShopRite\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Derrick Danso\Desktop\ShopRite\ShopRite\ShopRite\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Derrick Danso\Desktop\ShopRite\ShopRite\ShopRite\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Derrick Danso\Desktop\ShopRite\ShopRite\ShopRite\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Derrick Danso\Desktop\ShopRite\ShopRite\ShopRite\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Derrick Danso\Desktop\ShopRite\ShopRite\ShopRite\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Derrick Danso\Desktop\ShopRite\ShopRite\ShopRite\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Derrick Danso\Desktop\ShopRite\ShopRite\ShopRite\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Derrick Danso\Desktop\ShopRite\ShopRite\ShopRite\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Derrick Danso\Desktop\ShopRite\ShopRite\ShopRite\bin\Debug\MySql.Data.dll
+C:\Users\Derrick Danso\Desktop\ShopRite\ShopRite\ShopRite\bin\Debug\MySql.Data.EntityFrameworkCore.dll
+C:\Users\Derrick Danso\Desktop\ShopRite\ShopRite\ShopRite\bin\Debug\MySqlConnector.dll
+C:\Users\Derrick Danso\Desktop\ShopRite\ShopRite\ShopRite\bin\Debug\NuGet.Frameworks.dll
+C:\Users\Derrick Danso\Desktop\ShopRite\ShopRite\ShopRite\bin\Debug\System.Buffers.dll
+C:\Users\Derrick Danso\Desktop\ShopRite\ShopRite\ShopRite\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Derrick Danso\Desktop\ShopRite\ShopRite\ShopRite\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Derrick Danso\Desktop\ShopRite\ShopRite\ShopRite\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Derrick Danso\Desktop\ShopRite\ShopRite\ShopRite\bin\Debug\System.Memory.dll
+C:\Users\Derrick Danso\Desktop\ShopRite\ShopRite\ShopRite\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Derrick Danso\Desktop\ShopRite\ShopRite\ShopRite\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Derrick Danso\Desktop\ShopRite\ShopRite\ShopRite\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Derrick Danso\Desktop\ShopRite\ShopRite\ShopRite\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Derrick Danso\Desktop\ShopRite\ShopRite\ShopRite\bin\Debug\ZstdNet.dll
+C:\Users\Derrick Danso\Desktop\ShopRite\ShopRite\ShopRite\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Derrick Danso\Desktop\ShopRite\ShopRite\ShopRite\bin\Debug\Google.Protobuf.pdb
+C:\Users\Derrick Danso\Desktop\ShopRite\ShopRite\ShopRite\bin\Debug\Google.Protobuf.xml
+C:\Users\Derrick Danso\Desktop\ShopRite\ShopRite\ShopRite\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Derrick Danso\Desktop\ShopRite\ShopRite\ShopRite\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Derrick Danso\Desktop\ShopRite\ShopRite\ShopRite\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Derrick Danso\Desktop\ShopRite\ShopRite\ShopRite\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Derrick Danso\Desktop\ShopRite\ShopRite\ShopRite\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Derrick Danso\Desktop\ShopRite\ShopRite\ShopRite\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Derrick Danso\Desktop\ShopRite\ShopRite\ShopRite\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Derrick Danso\Desktop\ShopRite\ShopRite\ShopRite\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Derrick Danso\Desktop\ShopRite\ShopRite\ShopRite\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Derrick Danso\Desktop\ShopRite\ShopRite\ShopRite\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Derrick Danso\Desktop\ShopRite\ShopRite\ShopRite\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Derrick Danso\Desktop\ShopRite\ShopRite\ShopRite\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Derrick Danso\Desktop\ShopRite\ShopRite\ShopRite\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Derrick Danso\Desktop\ShopRite\ShopRite\ShopRite\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Derrick Danso\Desktop\ShopRite\ShopRite\ShopRite\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Derrick Danso\Desktop\ShopRite\ShopRite\ShopRite\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Derrick Danso\Desktop\ShopRite\ShopRite\ShopRite\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Derrick Danso\Desktop\ShopRite\ShopRite\ShopRite\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Derrick Danso\Desktop\ShopRite\ShopRite\ShopRite\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Derrick Danso\Desktop\ShopRite\ShopRite\ShopRite\bin\Debug\MySql.Data.xml
+C:\Users\Derrick Danso\Desktop\ShopRite\ShopRite\ShopRite\bin\Debug\MySql.Data.EntityFrameworkCore.xml
+C:\Users\Derrick Danso\Desktop\ShopRite\ShopRite\ShopRite\bin\Debug\MySqlConnector.xml
+C:\Users\Derrick Danso\Desktop\ShopRite\ShopRite\ShopRite\bin\Debug\NuGet.Frameworks.xml
+C:\Users\Derrick Danso\Desktop\ShopRite\ShopRite\ShopRite\bin\Debug\System.Buffers.xml
+C:\Users\Derrick Danso\Desktop\ShopRite\ShopRite\ShopRite\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Derrick Danso\Desktop\ShopRite\ShopRite\ShopRite\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Derrick Danso\Desktop\ShopRite\ShopRite\ShopRite\bin\Debug\System.Memory.xml
+C:\Users\Derrick Danso\Desktop\ShopRite\ShopRite\ShopRite\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Derrick Danso\Desktop\ShopRite\ShopRite\ShopRite\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Derrick Danso\Desktop\ShopRite\ShopRite\ShopRite\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Derrick Danso\Desktop\ShopRite\ShopRite\ShopRite\obj\Debug\ShopRite.csproj.AssemblyReference.cache
+C:\Users\Derrick Danso\Desktop\ShopRite\ShopRite\ShopRite\obj\Debug\ShopRite.csproj.SuggestedBindingRedirects.cache
+C:\Users\Derrick Danso\Desktop\ShopRite\ShopRite\ShopRite\obj\Debug\ShopRite.addStaff.resources
+C:\Users\Derrick Danso\Desktop\ShopRite\ShopRite\ShopRite\obj\Debug\ShopRite.adminLogin.resources
+C:\Users\Derrick Danso\Desktop\ShopRite\ShopRite\ShopRite\obj\Debug\ShopRite.adminPage.resources
+C:\Users\Derrick Danso\Desktop\ShopRite\ShopRite\ShopRite\obj\Debug\ShopRite.DeleteStaff.resources
+C:\Users\Derrick Danso\Desktop\ShopRite\ShopRite\ShopRite\obj\Debug\ShopRite.passwordReset.resources
+C:\Users\Derrick Danso\Desktop\ShopRite\ShopRite\ShopRite\obj\Debug\ShopRite.StaffPage.resources
+C:\Users\Derrick Danso\Desktop\ShopRite\ShopRite\ShopRite\obj\Debug\ShopRite.Home.resources
+C:\Users\Derrick Danso\Desktop\ShopRite\ShopRite\ShopRite\obj\Debug\ShopRite.Properties.Resources.resources
+C:\Users\Derrick Danso\Desktop\ShopRite\ShopRite\ShopRite\obj\Debug\ShopRite.staffLogin.resources
+C:\Users\Derrick Danso\Desktop\ShopRite\ShopRite\ShopRite\obj\Debug\ShopRite.csproj.GenerateResource.cache
+C:\Users\Derrick Danso\Desktop\ShopRite\ShopRite\ShopRite\obj\Debug\ShopRite.csproj.CoreCompileInputs.cache
+C:\Users\Derrick Danso\Desktop\ShopRite\ShopRite\ShopRite\obj\Debug\ShopRite.csproj.CopyComplete
+C:\Users\Derrick Danso\Desktop\ShopRite\ShopRite\ShopRite\obj\Debug\l.exe
+C:\Users\Derrick Danso\Desktop\ShopRite\ShopRite\ShopRite\obj\Debug\l.pdb
