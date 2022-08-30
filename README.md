@@ -1,5 +1,5 @@
 # SHOPRITE-INVENTORY-MANAGEMENT-SYSTEM
-This project is built for Shoprite Ghana Limited
+This project is built for Shoprite Ghana Limited.
  
 OVERVIEW
 This inventory management system is designed for Shoprite Ghana Limited. This project includes both functional and non-functional requirements as part of the software development cycle they wish to implement.
